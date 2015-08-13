@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="urls">
+        <item>http://pic2.ooopic.com/01/26/61/83bOOOPIC72.jpg</item>
+        <item>http://image.zcool.com.cn/56/35/1303967876491.jpg</item>
+    </string-array>
+    
+    <string name="timeInterval">5</string>
+    
+    <string name="autoPlay">true</string>
+    
+    <string name="delay">1</string>
+    
+    <string name="period">2</string>
+    
+</resources>
